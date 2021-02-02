@@ -1,0 +1,91 @@
+.mainheading{
+    text-align: center;
+}
+.mypic{
+    text-align: center;
+    height: 1px;
+    width: 1px;
+}
+.interests{
+    width: 25%;
+    background-image: url("bs1.png");
+    position: relative;
+    left: 500px;
+    bottom: 190px;
+    border: 1px solid white;
+    color: green;;
+}
+
+.intrestlist{
+    background-color: black;
+    color: white;
+    width: 40%;
+}
+.links{
+    border: 1px solid white;
+    position: relative;
+    left: 200 px;
+    bottom: 30px;
+    width: 25%;
+    height: 5%;
+    color: blue;
+    background-color: wheat;
+}
+.quote{
+    position: relative;
+    bottom: 700px;
+    left: 550px;
+    width: 20%;
+    color: rgb(3, 5, 0);
+    background-color: wheat;
+    border: 1px solid cornsilk;
+}
+.assignments{
+    color:darkblue;
+    border: 3px solid gold;
+    position: relative;
+    bottom: 160px;
+    left: 700;
+    background-color: blanchedalmond;
+    width: 30%;
+}
+.music{
+    background-image: url("hvs.jpg");
+    width: 30%;
+    height: 100%;
+    position: relative;
+    left: 420px;
+    bottom: 175px;
+}
+.albums{
+    width: 70%;
+    background-color: black;
+    color: white;
+
+}
+.info{
+    color: black;
+    position: relative;
+    left: 920px;
+    bottom: 800px;
+    width: 35%;
+    height: 70%;
+    background-color: wheat;
+}
+
+.bio{
+    color: black;
+    font-size: larger;
+    background-color: wheat;
+    position: relative;
+    bottom: 890px;
+    left: 950px;
+    width: 30%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url("bgr.jpeg");
+    font-family: sans-serif;
+}
